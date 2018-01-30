@@ -3,8 +3,8 @@
 
 ## Screenshots
 
-![Title](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Title.png)
-![Gameplay 1](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Gameplay1.png)
+![Title](https://github.com/RobertG-H/Rhythm-Tapper/blob/master/Screenshots/Title.png)
+![Gameplay 1](https://github.com/RobertG-H/Rhythm-Tapper/blob/master/Screenshots/Gameplay.png)
 
 ## Built With
 
